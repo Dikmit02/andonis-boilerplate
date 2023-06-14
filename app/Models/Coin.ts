@@ -1,5 +1,5 @@
 import { DateTime } from 'luxon'
-import { BaseModel, ModelAttributes, column } from '@ioc:Adonis/Lucid/Orm'
+import { BaseModel, column } from '@ioc:Adonis/Lucid/Orm'
 
 export default class CoinModel extends BaseModel {
   public static table = 'coins'
