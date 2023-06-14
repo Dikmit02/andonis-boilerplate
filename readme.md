@@ -25,3 +25,7 @@ node ace sync:coins
 ```
 
 This project is been created by using the free API as the API key version required the paid subscription
+
+## DB Schema
+
+![App Screenshot](./assets/dbSchema.png)
